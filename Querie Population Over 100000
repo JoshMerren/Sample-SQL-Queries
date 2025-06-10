@@ -4,6 +4,6 @@ The CITY table is described as follows:
 
 https://github.com/JoshMerren/Sample-SQL-Queries/issues/1#issue-3134119606
 
-
+https://github.com/JoshMerren/Sample-SQL-Queries/raw/main/path/to/your-image.png 
 
 select * from city where population > 100000 and COUNTRYCODE = 'USA'
